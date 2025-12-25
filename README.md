@@ -1,3 +1,9 @@
+
+<p align="center">
+  <img src="https://avatars.mds.yandex.net/i?id=7a62df6159ef660e3a3d5d573fb2bdfc1d9a0220-6478260-images-thumbs&n=13"
+       alt="Red Team Banner" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Xloria</h1>
 <h3 align="center">Red Team Operator | Cyber Security Specialist | Germany 🇩🇪</h3>
 
@@ -7,11 +13,11 @@
 
 ---
 
-- 🔴 Currently working on **custom Red Team tooling & automation**
-- 🛠️ Building **offensive security scripts** and PoC tools
-- 🌱 Improving **advanced Red Team tradecraft**
-- 💬 Ask me about **Red Teaming, Pentesting, OPSEC, Active Directory attacks**
-- ⚠️ All work is for **authorized & legal security testing only**
+- 🔴 Currently working on <b>custom Red Team tooling & automation</b>
+- 🛠️ Building <b>offensive security scripts</b> and PoC tools
+- 🌱 Improving <b>advanced Red Team tradecraft</b>
+- 💬 Ask me about <b>Red Teaming, Pentesting, OPSEC, Active Directory attacks</b>
+- ⚠️ All work is for <b>authorized & legal security testing only</b>
 
 ---
 
