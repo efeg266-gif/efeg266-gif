@@ -15,16 +15,6 @@
 
 ---
 
-<h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-  <!-- LinkedIn -->
-  <!-- <a href="https://linkedin.com/in/yourprofile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a> -->
-</p>
-
----
-
 <h3 align="left">🧠 Red Team Languages & Tools:</h3>
 
 <p align="left">
