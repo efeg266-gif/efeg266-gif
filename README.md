@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xlori</h1>
+<h1 align="center">Hi 👋, I'm Xloria</h1>
 <h3 align="center">Red Team Operator | Cyber Security Specialist | Germany 🇩🇪</h3>
 
 <p align="center">
