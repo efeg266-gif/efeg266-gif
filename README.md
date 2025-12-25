@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# 👋 Hi, I'm Xlori
+# 👋 Hi, I'm Xloria
 
 🇩🇪 Germany-based **Red Team Operator / Cyber Security Specialist**  
 Focused on **real-world offensive security**, **adversary simulation**, and **security automation**.
