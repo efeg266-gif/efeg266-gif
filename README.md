@@ -77,13 +77,5 @@ while maintaining **professional ethics and operational discipline**.
 
 ---
 
-## 📫 Contact
-
-- 💼 LinkedIn: *to be added*
-- 🌐 Blog / Website: *to be added*
-- ✉️ Email: *to be added*
-
----
-
 ⚠️ **Disclaimer**  
 All content is intended for **legal, authorized security assessments and research only**.
