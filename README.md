@@ -1,17 +1,66 @@
-<h1 align="center">Hi 👋, I'm Xloria</h1>
-<h3 align="center">A CyberSecurity personal in Germany</h3>
+<h1 align="center">Hi 👋, I'm Xlori</h1>
+<h3 align="center">Red Team Operator | Cyber Security Specialist | Germany 🇩🇪</h3>
 
-- 🔭 I’m currently working on **Xloria tool**
-
-- 🌱 I’m currently learning **CyberSecurity**
-
-- 🤝 I’m looking for help with **CyberSecurity**
-
-- 💬 Ask me about **CyberSecurity**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  Real-world offensive security • Adversary simulation • Security automation
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+---
+
+- 🔴 Currently working on **custom Red Team tooling & automation**
+- 🛠️ Building **offensive security scripts** and PoC tools
+- 🌱 Improving **advanced Red Team tradecraft**
+- 💬 Ask me about **Red Teaming, Pentesting, OPSEC, Active Directory attacks**
+- ⚠️ All work is for **authorized & legal security testing only**
+
+---
+
+<h3 align="left">🔗 Connect with me:</h3>
+<p align="left">
+  <!-- LinkedIn -->
+  <!-- <a href="https://linkedin.com/in/yourprofile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a> -->
+</p>
+
+---
+
+<h3 align="left">🧠 Red Team Languages & Tools:</h3>
+
+<p align="left">
+  <!-- Python -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"
+      alt="python" width="40" height="40"/>
+  </a>
+
+  <!-- Bash -->
+  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg"
+      alt="bash" width="40" height="40"/>
+  </a>
+
+  <!-- PowerShell -->
+  <a href="https://learn.microsoft.com/powershell/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg"
+      alt="powershell" width="40" height="40"/>
+  </a>
+
+  <!-- Linux -->
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+      alt="linux" width="40" height="40"/>
+  </a>
+
+  <!-- Git -->
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+      alt="git" width="40" height="40"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Effective security starts by thinking like an attacker."</i>
+</p>
